@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+    text-align: center;
+    
+
+}
+canvas{
+    background-color: white;
+    border:5px ridge grey;
+}
+col{
+    align-items: center;
+    display:table;
+}
